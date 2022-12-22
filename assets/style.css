@@ -71,6 +71,18 @@ a:hover {
 #C,
 #D {
     display: flex;
-    margin: 2rem;
+    margin: 1rem;
+}
+
+.choiceA,
+.choiceB,
+.choiceC,
+.choiceD {
+    position: relative;
+    margin-left: 50px;
+    padding: 2px;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(8, 0, 255);
 }
 
